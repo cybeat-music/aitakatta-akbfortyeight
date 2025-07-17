@@ -1,0 +1,33 @@
+{
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "category": "2",
+  "title": "Team A 2nd Stage \"Aitakatta\" (Studio Recordings)",
+  "author": "AKB48",
+  "disc": "0",
+  "music_name_index": {
+    "1": ["01 --- Overture",
+"02 --- Nagekinofigyua (Team A Version)",
+"03 --- Namidanoshounan (Team A Version)",
+"04 --- Aitakatta (Team A Version)",
+"05 --- Nagisanocherry (Team A Version)",
+"06 --- Grassno I LOVE YOU (Team A Version)",
+"07 --- KoinoPLAN (Team A Version)",
+"08 --- Senakakaradakishimete (Team A Version)",
+"09 --- Rionokakumei (Team A Version)",
+"10 --- JESUS (Team A Version)",
+"11 --- Dakedo (Team A Version)",
+"12 --- Mirainotobira (Team A Version)"],
+    "2": [],
+    "3": [],
+    "4": []
+  },
+  "id_category_list": {
+    "1": "IndoPride",
+    "2": "日本の歌",
+    "3": "Jowo Mletre",
+    "4": "Worldwide"
+  }
+}
